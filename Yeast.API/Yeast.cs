@@ -2,6 +2,9 @@
 
 namespace Yeast
 {
+    /// <summary>
+    /// Handle Encoding, Decoding, and random Generation of keys.
+    /// </summary>
     public static class Yeast
     {
         private static char[] _Alphabet = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-_".ToCharArray();

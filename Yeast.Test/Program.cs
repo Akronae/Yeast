@@ -6,7 +6,7 @@ namespace Yeast.Test
     {
         static void Main(string[] args)
         {
-            long value = 123456789;
+            long value = 0123456789;
             string encoded = String.Empty;
             long decoded = 0;
             
