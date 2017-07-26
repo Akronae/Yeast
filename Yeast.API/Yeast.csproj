@@ -15,7 +15,8 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
-    <DocumentationFile>bin\Release\netstandard1.4\Yeast.xml</DocumentationFile>
+    <DocumentationFile>C:\prog\c#\Yeast\Bin\netstandard1.4\Yeast.xml</DocumentationFile>
+    <OutputPath>C:\prog\c#\Yeast\Bin\netstandard1.4\</OutputPath>
   </PropertyGroup>
 
 </Project>
