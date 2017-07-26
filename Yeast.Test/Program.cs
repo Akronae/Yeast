@@ -17,7 +17,7 @@ namespace Yeast.Test
             Console.WriteLine($"Decode({value}) = {decoded}");
             Console.WriteLine($"Decoded == Value ? {decoded == value}");
 
-            Console.WriteLine("\nGenerating random keys within one call :");
+            Console.WriteLine("\nGenerating random keys within one call:");
             Console.WriteLine($"{Yeast.GenerateKey()} {Yeast.GenerateKey()} {Yeast.GenerateKey()}");
 
             Console.ReadLine();
